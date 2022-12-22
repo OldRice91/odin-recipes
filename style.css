@@ -1,0 +1,21 @@
+
+#vodka {
+    color: blue;
+    background-color: rgb(173, 68, 68);
+}
+#pepper {
+    background-color: aquamarine;
+}
+#olive {
+    background-color: blueviolet;
+}
+#title {
+    font-size: 45px;
+    background-color: green;
+    color: white;
+}
+
+div {
+    font-size: 30px;
+    font-weight: 750;
+}
